@@ -1,1 +1,1 @@
-# my-first-repo
+# This is my github repository named, "my-first-repo".
